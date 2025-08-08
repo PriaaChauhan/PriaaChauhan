@@ -34,20 +34,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dracula&hide_border=false&order=2" height="150" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=dracula&hide_border=true&order=4" height="150" alt="activity graph" />
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
 
 <img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -112,16 +98,16 @@
 <div align="center">
 
 ### 🔥 Smart Network Switch Management
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=smart-switch-ui&theme=dracula)](https://github.com/YourUsername/smart-switch-ui)
+
 
 ### 🌐 Real-time IoT Dashboard  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=iot-dashboard&theme=dracula)](https://github.com/YourUsername/iot-dashboard)
+
 
 ### 🔒 Microservices Door Lock System
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=door-lock-system&theme=dracula)](https://github.com/YourUsername/door-lock-system)
+
 
 ### 🤖 Automated UI Testing Tool
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ui-automation-tool&theme=dracula)](https://github.com/YourUsername/ui-automation-tool)
+
 
 </div>
 
