@@ -1,92 +1,223 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TynzX.TynzX" />
+# <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+a+Software+Developer!;Welcome+to+my+Profile!" />
+</div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Naveen+Kumar!;" />
-</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername" />
 
-<h3 align="center">Full Stack + Embedded Systems Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 Full Stack Developer | IoT Specialist | UI/UX Enthusiast from India 🇮🇳</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 Currently working as **SDE-1 at Original Innovation LLP**
- 
- 🌐 Building apps with **React, Next.js, NestJS, RTOS, and Flutter**
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-💬 Ask me about **smart IoT firmware, UI/UX, real-time dashboards, or backend architecture**  
-🔗 Connect [on LinkedIn](https://www.linkedin.com/in/naveendevelops/) or explore my projects on [GitHub](https://github.com/TynzX)
+---
 
-⚡ Fun fact: **I built the first custom WebSocket layer for the AMB82 chipset — shared on Realtek's global dev forum.**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+<div align="center">
+ 
+ 🔭 Currently working as **Software Developer at Original Innovation LLP**
+ 
+ 🌱 Building innovative solutions with **React.js, Node.js, IoT Systems & Microservices**
+
+ 💼 Experienced in **Full-Stack Development, Embedded Systems & Real-time Communication**
+
+ 💬 Ask me about **IoT firmware, WebSockets, NATS, Smart Switches, or Microservices Architecture**
+ 
+ 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile)** | **[Email](mailto:your.email@gmail.com)**
+
+ ⚡ Fun fact: **Built custom firmware for IoT devices handling 2000+ concurrent requests!**
   
- </div>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=dracula&hide_border=false&order=2" height="150" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YourUsername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=dracula&hide_border=true&order=4" height="150" alt="activity graph" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack & Tools
+
+<img align="right" height="150" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### 🖥️ Frontend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+</div>
+
+### 🔧 Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python" />
+  <img src="https://skillicons.dev/icons?i=mongodb,redis,elasticsearch,mysql" />
+</div>
+
+### 🚀 DevOps & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,nginx,ubuntu,vscode" />
+</div>
+
+### 🎨 Design & Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,wordpress" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman" />
+</div>
+
+### 📱 Mobile & IoT
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,c,arduino" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Professional Experience
+
+### 🏢 **Original Innovation LLP** - *Junior Software Developer*
+*November 2024 – Present*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
+</div>
+
+#### 🔥 Key Achievements:
+- 🌐 **IoT Smart Switches**: Developed UI for VLAN, SNMP, QoS, Port Mirroring with real-time updates
+- 🔋 **PoE Battery Management**: Built monitoring system for voltage and battery status
+- 🚪 **Door Lock System**: Implemented FFmpeg, HLS streaming, and camera integration
+- ⚡ **Raspberry Pi Server**: Handled 2000+ concurrent requests using NGINX & WebSockets
+- 🤖 **Automated Testing**: Created Python3 + Selenium testing framework
+- 📊 **Real-time Dashboard**: Built IoT device monitoring with threshold configuration
+
+### 💼 **Previous Experience**
+- **Frontend Developer Intern** at *Dizilooks Advertising* (June - Sep 2024)
+- **WordPress Developer** at *Infotech Evolutions* (May - Dec 2023)
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Featured Projects
+
+<div align="center">
+
+### 🔥 Smart Network Switch Management
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=smart-switch-ui&theme=dracula)](https://github.com/YourUsername/smart-switch-ui)
+
+### 🌐 Real-time IoT Dashboard  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=iot-dashboard&theme=dracula)](https://github.com/YourUsername/iot-dashboard)
+
+### 🔒 Microservices Door Lock System
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=door-lock-system&theme=dracula)](https://github.com/YourUsername/door-lock-system)
+
+### 🤖 Automated UI Testing Tool
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ui-automation-tool&theme=dracula)](https://github.com/YourUsername/ui-automation-tool)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Certifications & Education
+
+### 🎓 Education
+- **Bachelor of Science (B.Sc.)** - *Gurugram University* (2019-2022)
+- **Higher Secondary (12th)** - *Asian Public School* (2018-2019)
+
+### 📜 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Certificate-brightgreen?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/WordPress%20Development-Certificate-blue?style=for-the-badge&logo=wordpress" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Architecture & Skills
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+</div>
+
+### 🏗️ **Architecture Expertise**
+- **Microservices** | **Event-driven Architecture** | **Real-time Communication**
+- **WebSockets** | **NATS Messaging** | **RESTful APIs** | **TCP/IP Protocols**
+
+### 🛠️ **System Integration**
+- **IoT Device Management** | **Network Switch Configuration** | **Embedded Systems**
+- **Performance Optimization** | **Memory Management** | **System Debugging**
+
+### 📊 **Data Management**
+- **MongoDB** | **Elasticsearch** | **Redis Caching** | **Real-time Analytics**
+
+---
+
+## <img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="25"> Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"> Activity & Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> Fun Facts & Achievements
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7qDSOvfaCO9b3MlO/giphy.gif" width="300"/>
+</div>
+
+- 🚀 Built the first custom WebSocket layer for AMB82 chipset
+- 🔥 Handled 2000+ concurrent requests on Raspberry Pi server
+- 🌐 Developed real-time IoT dashboards with threshold alerts
+- 💡 Expert in microservices architecture and event-driven systems
+- 🛠️ Specialized in smart network switches (8380, 8367 series)
+- 🎯 Performance optimization enthusiast
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TynzX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TynzX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+✨;Always+learning,+always+growing!+📚" />
+</div>
+
+<div align="center">
+  
+  **⭐ Don't forget to star my repositories if you find them interesting! ⭐**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square&label=Profile+Views)
+  
 </div>
 
 ---
 
-<img align="right" height="150" src="https://media1.tenor.com/m/LXJkzQ_B_BUAAAAC/my-hero-academia-boku-no-hero-academia.gif" />
-
----
-
-### 🛠️ Tech Stack
-
-<div align="left">
-  <!-- Core Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart" />
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" alt="nestjs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="elasticsearch" />
-  
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode" />
-  
-  <!-- Design & Multimedia -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="30" alt="aftereffects" />
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%" height="2"/>
 </div>
 
----
-
-### 📫 Connect With Me
-
-<div align="left">
-  <a href="https://www.instagram.com/whois" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:naveenworkspace1999@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/naveendevelops/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</div>
-
----
-
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/TynzX/TynzX/output/github-contribution-grid-snake.svg" />
-
+*Made with ❤️ and lots of ☕*
