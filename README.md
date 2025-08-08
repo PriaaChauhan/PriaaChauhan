@@ -26,7 +26,7 @@
 
  💬 Ask me about **IoT firmware, WebSockets, NATS, Smart Switches, or Microservices Architecture**
  
- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/yourprofile)** | **[Email](mailto:your.email@gmail.com)**
+ 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/priyachauhan21)** | **[Email](mailto:priachauhan0502@gmail.com)**
 
  ⚡ Fun fact: **Built custom firmware for IoT devices handling 2000+ concurrent requests!**
   
