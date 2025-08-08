@@ -165,14 +165,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="25"> Activity & Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25"> Fun Facts & Achievements
 
 <div align="center">
